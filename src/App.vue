@@ -2,7 +2,6 @@
   <v-app>
   <Navbar/>
     <v-content>
-      <!-- <Home/> -->
       <router-view></router-view>
     </v-content>
   </v-app>

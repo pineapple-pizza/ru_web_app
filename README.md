@@ -1,4 +1,4 @@
-# rudik_web_app
+# ru_web_app
 
 ## Project setup
 ```
